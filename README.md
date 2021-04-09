@@ -1,4 +1,7 @@
-# chat-application
+# Vue Chat Application
+
+First we create a real-time database in firebase and then enter api config in db.js.
+https://console.firebase.google.com/
 
 ## Project setup
 ```
